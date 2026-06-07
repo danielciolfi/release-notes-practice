@@ -1,0 +1,7 @@
+{
+  "name": "ledgerly",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Practice invoicing/dashboard app for the Release Notes Agent course",
+  "main": "src/app.js"
+}
